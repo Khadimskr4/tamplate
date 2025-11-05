@@ -1,9 +1,6 @@
-
 {
-  "name": "Django Workshop (Pinned)",
-  "build": {
-    "dockerfile": "Dockerfile"
-  },
+  "name": "Django + GDAL Workshop (Pinned)",
+  "build": { "dockerfile": "Dockerfile" },
   "settings": {
     "python.defaultInterpreterPath": "/workspaces/${localWorkspaceFolderBasename}/.venv/bin/python",
     "editor.formatOnSave": true
