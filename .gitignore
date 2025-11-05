@@ -1,1 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code
+.vscode/settings.json
+
+# Environnement
+.env
 
