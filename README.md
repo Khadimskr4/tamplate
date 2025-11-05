@@ -6,8 +6,8 @@ Démarrer
 
 Pui executer ces lignes de commande pour activer l'env et vérifier les versions de python et django
 
-source .venv/bin/activate
-python --version
-python -m django --version
-gdalinfo --version
-python -c "from osgeo import gdal; print('GDAL Python:', gdal.VersionInfo())"
+1. source .venv/bin/activate
+2. python --version
+3. python -m django --version
+4. gdalinfo --version
+5. python -c "from osgeo import gdal; print('GDAL Python:', gdal.VersionInfo())"
