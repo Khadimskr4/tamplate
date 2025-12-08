@@ -11,3 +11,10 @@ Pui executer ces lignes de commande pour activer l'env et vérifier les versions
 3. python -m django --version
 4. gdalinfo --version
 5. python -c "from osgeo import gdal; print('GDAL Python:', gdal.VersionInfo())"
+
+'''
+  jjj
+      ee
+      eee
+         eee
+    '''
